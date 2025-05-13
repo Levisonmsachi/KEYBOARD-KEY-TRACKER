@@ -1,6 +1,6 @@
 # ⌨️ Keyboard Key Tracker
 
-![Demo GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0d3V5b3V1d3Y2Z3R4dW5tY2V6Z2J6eGZlcW5lZ2VlY3BmbW11biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ibolLe3mOqHE3PQTtk/giphy.gif)  
+![Demo GIF](https://github.com/Levisonmsachi/KEYBOARD-KEY-TRACKER/blob/main/Screenshot%20(127).png)  
 
 A real-time keyboard event visualizer that displays key presses, codes, and modifier states with a clean, modern interface.
 
